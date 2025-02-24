@@ -2,8 +2,7 @@
 
 
 <div align="center">
-<img src=assets\tianjilogo.png width="70%"/>
-<img src=![image](https://github.com/user-attachments/assets/9584d81e-f358-4006-a6a6-fe237aad1131) width="70%"/>
+<img src=Assets\energy.png width="70%"/>
 </div>
 
 <p align="center">
