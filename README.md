@@ -1,12 +1,12 @@
 # EnergyX AI
 
 
-<div align="left">
-<img src=Energy.png width="30%"/>
+<div align="center">
+<img src=Energy.png width="20%"/>
 </div>
 
 <p align="center">
-天机（Tianji）是专注于传统人情场景的大语言模型应用。
+EnergyX AI 是专注于能源场景下的LLM 应用。
 </p>
 
 <p align="center">
