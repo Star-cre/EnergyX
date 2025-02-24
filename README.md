@@ -1,7 +1,7 @@
 # EnergyX AI
 
 
-<div align="center">
+<div align="left">
 <img src=Energy.png width="30%"/>
 </div>
 
