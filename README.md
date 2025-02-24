@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src=Assets\energy.png width="70%"/>
+<img src=Energy.png width="70%"/>
 </div>
 
 <p align="center">
