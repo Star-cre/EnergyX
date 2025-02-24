@@ -14,7 +14,7 @@ EnergyX AI 是专注于能源场景下的LLM 应用。
 </p>
 
 <p align="center">
-🤗  获取天机的 <a href="https://huggingface.co/datasets/sanbu/tianji-chinese/tree/main" target="_blank"> 所有数据</a>
+🤗  获取的 <a href="https://huggingface.co/datasets/sanbu/tianji-chinese/tree/main" target="_blank"> 所有数据</a>
 </p>
 
 <p align="center">
